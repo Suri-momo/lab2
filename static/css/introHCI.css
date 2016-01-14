@@ -1,3 +1,6 @@
+#project1 {
+    font-variant: small-caps;
+}
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
@@ -31,4 +34,10 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+.project {
+    margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 525px;
 }
